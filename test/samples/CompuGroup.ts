@@ -1,6 +1,6 @@
 describe('Name of the group', () => {
     it('should behave...', async () => {
-        browser.url("https://demo.clickdoc.de/cd-de/")                  //go to URL
+        browser.url("https://demo.clickdoc.de/cd-de/")                  //go to URL test123
         await browser.pause(2000)
         await browser.maximizeWindow()                                  //maximize the browser window
         await browser.pause(2000)
